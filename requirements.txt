@@ -4,3 +4,4 @@ chromadb
 pandas
 python-dotenv
 langchain-community
+langchain-groq
