@@ -5,3 +5,6 @@ pandas
 python-dotenv
 langchain-community
 langchain-groq
+opentelemetry-api
+opentelemetry-exporter
+protobuf
