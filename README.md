@@ -8,12 +8,12 @@
 #### User-Friendly Interface: Built with Streamlit for an intuitive, interactive experience.
 
 ## Usage:
-Input a job posting link.
-The application scrapes the page to extract job details.
-Based on the extracted information and a curated portfolio, the tool generates a personalized cold email.
+#### Input a job posting link.
+#### The application scrapes the page to extract job details.
+#### Based on the extracted information and a curated portfolio, the tool generates a personalized cold email.
 
 ## Technologies Used:
-Streamlit: For building the user interface.
-LangChain: For Web Scraping and email generation.
-ChromaDB: For managing and querying portfolio data.
-Pandas: For data handling and manipulation.
+#### Streamlit: For building the user interface.
+#### LangChain: For Web Scraping and email generation.
+#### ChromaDB: For managing and querying portfolio data.
+#### Pandas: For data handling and manipulation.
