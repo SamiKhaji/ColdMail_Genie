@@ -11,5 +11,5 @@ unstructured==0.15.13
 unstructured-client==0.25.9
 python-dotenv==1.0.1
 protobuf==4.25.5
-
+pysqlite3-binary
 
