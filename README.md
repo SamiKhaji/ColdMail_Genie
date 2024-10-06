@@ -1,4 +1,4 @@
-  # ColdMail_Genie
+# ColdMail_Genie
 📧 Cold Mail Genie is a web application that enables companies to effortlessly craft personalized cold emails to share their portfolios and projects with potential clients and employers. Designed with user experience in mind, this tool streamlines the outreach process by extracting relevant information from job postings and generating tailored emails using advanced language models.
 
 ## Features
@@ -17,3 +17,5 @@
 #### LangChain: For Web Scraping and email generation.
 #### ChromaDB: For managing and querying portfolio data.
 #### Pandas: For data handling and manipulation.
+
+####### Demo🚀: https://coldmailgenie-9zwd5wj6oum6u4jkas7cj6.streamlit.app/  
