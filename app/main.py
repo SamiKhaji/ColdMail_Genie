@@ -4,7 +4,9 @@ from chains import Chain
 from portfolio import Portfolio
 from utils import clean_text
 
-
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 def create_streamlit_app(llm, portfolio, clean_text):
     st.title("📧 ColdMail Genie")
