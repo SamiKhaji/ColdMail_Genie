@@ -8,4 +8,6 @@ streamlit>=1.35.0
 pandas>=1.3
 python-dotenv>=1.0.0
 protobuf==4.25.5
-pysqlite3-binary==3.42.0
+pysqlite3-binary
+
+
