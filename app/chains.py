@@ -56,4 +56,4 @@ class Chain:
         return res.content
 
 if __name__ == "__main__":
-    print(os.getenv("GROQ_API_KEY"))
+    print("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")
